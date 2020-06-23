@@ -1,4 +1,4 @@
-name: null
+name: genomicsExample
 channels:
   - bioconda
   - conda-forge
