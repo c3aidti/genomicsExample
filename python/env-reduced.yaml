@@ -1,6 +1,7 @@
 name: genomicsExample
 channels:
   - conda-forge
+  - bioconda
   - defaults
 dependencies:
   - pysam
