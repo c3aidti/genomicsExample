@@ -1,2 +1,6 @@
 venv
-.ipynb_checkpoints
+*.ipynb_checkpoints
+*.dnd
+*.fa
+*.phy
+*/project
